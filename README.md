@@ -1,7 +1,7 @@
 # DiscordNVR
 The poor guy NVR using Discord as storage
 
-Camera detection (MP4 clip) -- FTP --> Shared hosting (With PHP and Cron) -- Webhook --> Discord
+Camera detection (MP4 clip) -- FTP --> Shared hosting (With PHP, Cron and CUrl) -- Webhook --> Discord
 
 
 The file is deleted after upload.
